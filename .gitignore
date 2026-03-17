@@ -2,3 +2,8 @@
 venv/
 .venv/
 .claude
+.venv-linux
+awscliv2.zip
+.aws/
+aws/
+/aws
