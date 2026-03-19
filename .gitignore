@@ -6,4 +6,6 @@ venv/
 awscliv2.zip
 .aws/
 aws/
-/aws
+/
+venv-linux
+.venv-linux
